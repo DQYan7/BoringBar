@@ -1,0 +1,109 @@
+LOGFILE openened: [03/13/2024  13:21:02]
+OS: Windows 6.2
+-> MalTF Version, -, -, 9.2.1.242 , -
+-> Looking for NI-DAQ..., -, -, -, -
+-> Found NI-DAQ [NI 9234], -, -, -, OK
+-> NIDAQmx version.., -, -, -, -
+-> NIDAQmx version, -, -, 19.6, OK
+-> Physical channel count..., -, -, -, -
+-> Physical channel count, -, 4, 2, OK
+-> Sampling rate..., -, -, -, -
+-> Sampling rate, -, 51200, 51200, OK
+-> Input voltage range..., -, -, -, -
+-> Input voltage range, -5.000, +5.000, ±5.000, OK
+-> Input voltage level..., -, -, -, -
+-> Input voltage level, -, 0.015000, 0.000120, OK
+-> Input drift..., -, -, -, -
+-> Input drift found, -, 0.000038, 0.000049, FAILED
+-> Channel 1 voltage range..., -, -, -, -
+-> Channel 1 voltage range, -5.000, +5.000, ±5.000, OK
+-> Channel 1 voltage level..., -, -, -, -
+-> Channel 1 voltage level, -, 0.015000, 0.000136, OK
+-> Channel 1 drift..., -, -, -, -
+-> Channel 1 drift, -, 0.000032, 0.000018, OK
+-> MalTF Version, -, -, 9.2.1.242 , -
+-> Looking for NI-DAQ..., -, -, -, -
+-> Found NI-DAQ [NI 9234], -, -, -, OK
+-> NIDAQmx version.., -, -, -, -
+-> NIDAQmx version, -, -, 19.6, OK
+-> Physical channel count..., -, -, -, -
+-> Physical channel count, -, 4, 2, OK
+-> Sampling rate..., -, -, -, -
+-> Sampling rate, -, 51200, 51200, OK
+-> Input voltage range..., -, -, -, -
+-> Input voltage range, -5.000, +5.000, ±5.000, OK
+-> Input voltage level..., -, -, -, -
+-> Input voltage level, -, 0.015000, 0.000226, OK
+-> Input drift..., -, -, -, -
+-> Input drift found, -, 0.000048, 0.000154, FAILED
+-> Channel 1 voltage range..., -, -, -, -
+-> Channel 1 voltage range, -5.000, +5.000, ±5.000, OK
+-> Channel 1 voltage level..., -, -, -, -
+-> Channel 1 voltage level, -, 0.015000, 0.000120, OK
+-> Channel 1 drift..., -, -, -, -
+-> Channel 1 drift, -, 0.000036, 0.000015, OK
+-> MalTF Version, -, -, 9.2.1.242 , -
+-> Looking for NI-DAQ..., -, -, -, -
+-> Found NI-DAQ [NI 9234], -, -, -, OK
+-> NIDAQmx version.., -, -, -, -
+-> NIDAQmx version, -, -, 19.6, OK
+-> Physical channel count..., -, -, -, -
+-> Physical channel count, -, 4, 2, OK
+-> Sampling rate..., -, -, -, -
+-> Sampling rate, -, 51200, 51200, OK
+-> Input voltage range..., -, -, -, -
+-> Input voltage range, -5.000, +5.000, ±5.000, OK
+-> Input voltage level..., -, -, -, -
+-> Input voltage level, -, 0.015000, 0.000048, OK
+-> Input drift..., -, -, -, -
+-> Input drift found, -, 0.000022, 0.000027, FAILED
+-> Channel 1 voltage range..., -, -, -, -
+-> Channel 1 voltage range, -5.000, +5.000, ±5.000, OK
+-> Channel 1 voltage level..., -, -, -, -
+-> Channel 1 voltage level, -, 0.015000, 0.000143, OK
+-> Channel 1 drift..., -, -, -, -
+-> Channel 1 drift, -, 0.000041, 0.000038, OK
+-> MalTF Version, -, -, 9.2.1.242 , -
+-> Looking for NI-DAQ..., -, -, -, -
+-> Found NI-DAQ [NI 9234], -, -, -, OK
+-> NIDAQmx version.., -, -, -, -
+-> NIDAQmx version, -, -, 19.6, OK
+-> Physical channel count..., -, -, -, -
+-> Physical channel count, -, 4, 2, OK
+-> Sampling rate..., -, -, -, -
+-> Sampling rate, -, 51200, 51200, OK
+-> Input voltage range..., -, -, -, -
+-> Input voltage range, -5.000, +5.000, ±5.000, OK
+-> Input voltage level..., -, -, -, -
+-> Input voltage level, -, 0.015000, 0.000083, OK
+-> Input drift..., -, -, -, -
+-> Input drift found, -, 0.000023, 0.000027, FAILED
+-> Channel 1 voltage range..., -, -, -, -
+-> Channel 1 voltage range, -5.000, +5.000, ±5.000, OK
+-> Channel 1 voltage level..., -, -, -, -
+-> Channel 1 voltage level, -, 0.015000, 0.000162, OK
+-> Channel 1 drift..., -, -, -, -
+-> Channel 1 drift, -, 0.000036, 0.000001, OK
+-> MalTF Version, -, -, 9.2.1.242 , -
+-> Looking for NI-DAQ..., -, -, -, -
+-> Found NI-DAQ [NI 9234], -, -, -, OK
+-> NIDAQmx version.., -, -, -, -
+-> NIDAQmx version, -, -, 19.6, OK
+-> Physical channel count..., -, -, -, -
+-> Physical channel count, -, 4, 2, OK
+-> Sampling rate..., -, -, -, -
+-> Sampling rate, -, 51200, 51200, OK
+-> Input voltage range..., -, -, -, -
+-> Input voltage range, -5.000, +5.000, ±5.000, OK
+-> Input voltage level..., -, -, -, -
+-> Input voltage level, -, 0.015000, 0.000088, OK
+-> Input drift..., -, -, -, -
+-> Input drift, -, 0.000022, 0.000009, OK
+-> Channel 1 voltage range..., -, -, -, -
+-> Channel 1 voltage range, -5.000, +5.000, ±5.000, OK
+-> Channel 1 voltage level..., -, -, -, -
+-> Channel 1 voltage level, -, 0.015000, 0.000146, OK
+-> Channel 1 drift..., -, -, -, -
+-> Channel 1 drift, -, 0.000034, 0.000006, OK
+LOGFILE closed: [03/13/2024  13:21:45]
+
